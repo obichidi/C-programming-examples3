@@ -1,0 +1,11 @@
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson9debugging/obj/Debug/netcoreapp2.1/lesson9debugging.csprojAssemblyReference.cache
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson9debugging/obj/Debug/netcoreapp2.1/lesson9debugging.csproj.CoreCompileInputs.cache
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson9debugging/obj/Debug/netcoreapp2.1/lesson9debugging.AssemblyInfoInputs.cache
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson9debugging/obj/Debug/netcoreapp2.1/lesson9debugging.AssemblyInfo.cs
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson9debugging/bin/Debug/netcoreapp2.1/lesson9debugging.deps.json
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson9debugging/bin/Debug/netcoreapp2.1/lesson9debugging.runtimeconfig.json
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson9debugging/bin/Debug/netcoreapp2.1/lesson9debugging.runtimeconfig.dev.json
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson9debugging/bin/Debug/netcoreapp2.1/lesson9debugging.dll
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson9debugging/bin/Debug/netcoreapp2.1/lesson9debugging.pdb
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson9debugging/obj/Debug/netcoreapp2.1/lesson9debugging.dll
+/Users/obiajuluchidi/Desktop/ProgrammingC#/lesson9debugging/obj/Debug/netcoreapp2.1/lesson9debugging.pdb
